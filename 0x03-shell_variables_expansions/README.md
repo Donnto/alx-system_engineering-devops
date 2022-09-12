@@ -1,4 +1,4 @@
-variables and expansions
+Shell_variables_and expansions
 Project done during Full Stack Software Engineering studies at Alx School. It aims to learn about alias builtin, help builtin, local, global and reserved variables (PATH, HOME and PS1), special parameters $? and single an double quotes in Shell.
 
 Technologies
