@@ -6,7 +6,11 @@ Scripts written in Bash 4.3.11(1
 Tested on Ubuntu 20.04 LTS
 Files
 All of the following files are scripts, except school.mgc
-I learned how to navigate directories using cd, pwd, ls, how to look around using ls, less, and file, and how to manipulate files with cp, mv, rm, and mkdir. Further, I practiced working with the type, which, help, and man commands, implementing wildcards, reading man pages, creating links, and using keyboard shortcuts in Bash.
+
+I learned how to navigate directories using cd, pwd, ls.
+How to look around using ls, less, and file, and how to manipulate files with cp, mv, rm, and mkdir.
+
+Further, I practiced working with the type, which, help, and man commands, implementing wildcards, reading man pages, creating links, and using keyboard shortcuts in Bash.
 
 Tasks 📃
 
