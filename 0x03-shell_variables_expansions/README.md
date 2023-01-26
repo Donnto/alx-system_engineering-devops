@@ -7,7 +7,7 @@ Tested on Ubuntu 20.04 LTS
 # Files
 All of the following files are scripts:
 
-# Filename	Description
+Filename	    ||      Description
 • 0-alias
 
     ° Creates an alias
