@@ -39,7 +39,11 @@ Note: Each Ruby script in the project matches regular expressions based on an ar
 • 8. Textme
 
  ° 100-textme.rb: Ruby script that runs statistics on TextMe app text message transcations.
+
  ° Output: [SENDER],[RECEIVER],[FLAGS] where
+
     • [SENDER] is the sender phone number or name (including country code if present).
+
     • [RECEIVER] is the receiver phone number or name (including country code if present).
+
     • [FLAGS] is the flags that were used.
