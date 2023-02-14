@@ -18,31 +18,49 @@ This project was the first of two introducing networking concepts. In this proje
 
 •1. Types of network
 
-° 1-types_of_network: Text file answering the following questions:
+° 1-7types_of_network: Text file answering the following questions:
 What type of network are computer in your network connected to?
+
     1.Internet
+
     2.WAN
+
     3.LAN
 
 What type of network could connect an office in one building to another office in a building a few streets away?
+
     1.Internet
+
     2.WAN
+
     3.LAN
 
 What network do you use when you browse www.google.com from your smartphone (not connected to the Wifi)?
+
     1.Internet
+
     2.WAN
+
     3.LAN
+
 • 2. MAC and IP address
 
 • 2-MAC_and_IP_address: Text file answering the following questions:
+
     ° What is a MAC address?
+
         a.The name of a network interface
+
         b.The unique identifier of a network interface
+
         c.A network interface
+
     ° What is an IP address?
+
         a.Is to devices connected to a network what postal address is to houses
+
         b.The unique identifier of a network interface
+
         c.Is a number that network devices use to connect to networks
 
 • 3. UDP and TCP
